@@ -17,7 +17,7 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-![output](./static/img/00.png)
+![output](./static/img/000.png)
 ![output](./static/img/01.png)
 ![output](./static/img/02.png)
 ![output](./static/img/03.png)
